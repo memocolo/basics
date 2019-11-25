@@ -198,7 +198,7 @@ Write an applicaton that reads 3 sides of a triangle and returns if the given si
 ### Body Mass Index
 The following table describes the possibilites of suffering *coronary heart disease* given the *Body Mass Index*.
 
- - | Age < 45> | Age ≥ 45
+ Index | Age < 45 | Age ≥ 45
 --- | --- | ---
 **BMI < 22.0** | low | medium
 **BMI ≥ 22.00** | medium | high
