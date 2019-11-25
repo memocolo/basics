@@ -7,9 +7,7 @@ The solutions given to these exercises are *programming language agnostic*, the 
 
 
 ## Getting Started
-### Requirements
-- NodeJS [Installing NodeJS](https://nodejs.org/)
-- VSCode [Installing VSCode](https://code.visualstudio.com/)
+Instructions and requirements are available in the [Wiki](https://github.com/BACS101/basics/wiki/Getting-Started#requirements) of this repository.
 
 ## Index
 - [Part 1](https://github.com/BACS101/basics/blob/master/exercises/level1.md#basics---part-1)
