@@ -5,6 +5,12 @@ This repository is intended for exercises and solutions to everyday problems tha
 
 The main objective is to apply an ambiguous programming language to solve problems of different scales, it is not dedicated to the compression and operation of the programming language itself but of the procedure in solving a given problem.
 
+
+## Getting Started
+### Requirements
+- NodeJS [Installing NodeJS](https://nodejs.org/)
+- VSCode [Installing VSCode](https://code.visualstudio.com/)
+
 ## Index
 - [Part 1](https://github.com/BACS101/basics/blob/master/exercises/level1.md#basics---part-1)
   - Reading From User

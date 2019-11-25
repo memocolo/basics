@@ -1,0 +1,28 @@
+{
+  "name": "basics",
+  "version": "1.0.0",
+  "description": "Basic Programming Exercises",
+  "main": "-",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BACS101/basics.git"
+  },
+  "keywords": [
+    "programming",
+    "basic",
+    "learning",
+    "algorithms"
+  ],
+  "author": "BACS101",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BACS101/basics/issues"
+  },
+  "homepage": "https://github.com/BACS101/basics#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
