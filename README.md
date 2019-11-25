@@ -3,7 +3,7 @@
 
 This repository is intended for exercises and solutions to everyday problems that aim to complement the exercise of thinking in terms of logic applied in a programming language.
 
-The main objective is to apply an ambiguous programming language to solve problems of different scales, it is not dedicated to the compression and operation of the programming language itself but of the procedure in solving a given problem.
+The solutions given to these exercises are *programming language agnostic*, the main objective is to solve problems of different scales not the compression and operation of a programming language.
 
 
 ## Getting Started
