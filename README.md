@@ -30,3 +30,7 @@ Instructions and requirements are available in the [Wiki](https://github.com/BAC
     - [Age](https://github.com/BACS101/basics/blob/master/exercises/level1.md#age)
     - [Minkowski Inequality](https://github.com/BACS101/basics/blob/master/exercises/level1.md#minkowski-inequality)
     - [Body Mass Index](https://github.com/BACS101/basics/blob/master/exercises/level1.md#body-mass-index)
+    - [Largest and Smallest](https://github.com/BACS101/basics/blob/master/exercises/level1.md#largest-and-smallest)
+    - [Multiples](https://github.com/BACS101/basics/blob/master/exercises/level1.md#multiples)
+    - [Digits of an Integer](https://github.com/BACS101/basics/blob/master/exercises/level1.md#digits-of-an-integer)
+

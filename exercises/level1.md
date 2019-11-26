@@ -204,3 +204,31 @@ The following table describes the possibilites of suffering *coronary heart dise
 **BMI ≥ 22.00** | medium | high
 
 Given the table above, write an application that reads the height and weight of a person and writes the risk condion.
+
+### Largest and Smallest
+Write an application that reads five integers and determines and prints the smallest integer in
+the group.
+
+```
+<< Enter 5 integers: 1 8 2 4 7
+>> The smallest integer is 1
+```
+
+### Mutiples
+Write an application that reads 2 integers and determines and prints if the **first** integer is multiple of the **second**.
+> Modulus operator (%) can be used to accomplish this exercise
+
+```
+<< Enter an integer: 1
+<< Enter a second integer: 2
+
+>> 2 is multiple of 1
+```
+
+### Digits of an integer
+Write an application that reads a 4 digit integer and prints its digits separated by an space.
+
+```
+<< Enter an integer: 1323
+>> 1 3 2 3
+```
