@@ -7,7 +7,11 @@ The solutions given to these exercises are *programming language agnostic*, the 
 
 
 ## Getting Started
-Instructions and requirements are available in the [Wiki](https://github.com/BACS101/basics/wiki/Getting-Started#requirements) of this repository.
+> Instructions and requirements are available in the [Wiki](https://github.com/BACS101/basics/wiki/Getting-Started#requirements) of this repository.
+
+*BACS101/basics* will take care of your progress in this repository!
+All you need to do is execute `npm run helloworld` in this directory, then a new folder with your username will be created
+all of your process will be stored there.
 
 ## Index
 - [Part 1](https://github.com/BACS101/basics/blob/master/exercises/level1.md#basics---part-1)

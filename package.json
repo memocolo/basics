@@ -1,10 +1,12 @@
 {
   "name": "basics",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Basic Programming Exercises",
   "main": "-",
   "scripts": {
-    "test": "-"
+    "helloworld": "node ./gens/init.js",
+    "eslint:init": "eslint --init",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -24,5 +26,11 @@
   "homepage": "https://github.com/BACS101/basics#readme",
   "dependencies": {
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.23",
+    "eslint": "^6.7.2",
+    "eslint-plugin-jest": "^23.1.1",
+    "jest": "^24.9.0"
   }
 }
